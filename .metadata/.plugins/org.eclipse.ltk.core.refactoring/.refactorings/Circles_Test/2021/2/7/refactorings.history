@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;CirclesGUI/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Circles_Test&apos;&#x0D;&#x0A;- Destination element: &apos;CirclesGUI/src/(default package)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     CircleWithCentre.java&#x0D;&#x0A;     Point.java&#x0D;&#x0A;     Circle.java" description="Copy compilation units" destination="=CirclesGUI/src&lt;" element1="/src&lt;{CircleWithCentre.java" element2="/src&lt;{Point.java" element3="/src&lt;{Circle.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1613574181749" units="3" version="1.0"/>
+</session>

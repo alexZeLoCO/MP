@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="Dice"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.TimerTask"/>
+    <fullyQualifiedTypeName name="java.util.Timer"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="Console2"/>
+    <fullyQualifiedTypeName name="java.awt.Polygon"/>
+    <fullyQualifiedTypeName name="java.awt.Graphics"/>
+    <fullyQualifiedTypeName name="jeroquest.utils.Statistics"/>
+    <fullyQualifiedTypeName name="jeroquest.gui.MyKeyboard"/>
+    <fullyQualifiedTypeName name="jeroquest.logic.Game"/>
+    <fullyQualifiedTypeName name="jeroquest.units.Zombie"/>
+    <fullyQualifiedTypeName name="jeroquest.units.DirtyRat"/>
+    <fullyQualifiedTypeName name="jeroquest.utils.DynamicVectorCharacters"/>
+    <fullyQualifiedTypeName name="jeroquest.units.Wasp"/>
+    <fullyQualifiedTypeName name="jeroquest.units.Swarm"/>
+    <fullyQualifiedTypeName name="java.security.Guard"/>
+    <fullyQualifiedTypeName name="jeroquest.units.Goblin"/>
+    <fullyQualifiedTypeName name="jeroquest.units.Suspect"/>
+    <fullyQualifiedTypeName name="java.util.logging.Formatter"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.util.Formatter"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+</qualifiedTypeNameHistroy>

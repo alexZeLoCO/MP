@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="workingset_selection_history">
+		<item value="ExamenesExcepcionesFicheros"/>
+		<item value="Tema_4"/>
+		<item value="Tema3"/>
+		<item value="Teoria"/>
+		<item value="Tema_2"/>
+	</list>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 4 Sesion 25-26.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 4 Sesion 23-24 Final.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 4 Sesion 23-24.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 2 Sesion 21-22 Final.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 2 Sesion 20-21.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 2 Sesion 19-20 Final.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 2 TG.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 2 Sesion 17-18.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 2 Sesion 15-16 .zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 2 Sesion 13-14.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 2 Sesion 11-12 Final.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 2 Sesion 11-12.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 1-2 Sesion 9-10 Final.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 1-2 Sesion 9-10.zip"/>
+			<item value="E:\Proyectos\Java\ECLIPSE\DeadOfTheNight\1.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 1 Sesion 7-8.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 1 Sesion 5-6 Final.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 1 Sesion 5-6.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\Celia.zip"/>
+			<item value="H:\EPI\1\2\MP\PL\Exportaciones\UO281827 Tema 1 SEsion 3-4.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="com.objectaid.uml.new"/>
+		</list>
+	</section>
+	<section name="EditorSelectionDialog">
+	</section>
+</section>

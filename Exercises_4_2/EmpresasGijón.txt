@@ -1,0 +1,887 @@
+14                       13        9                                        42       8
+TIPO_ACTIVIDAD SECC._TARIFA EPIGRAFE                               DESCRIPCION  NUMERO
+EMPRESARIAL               1      011       EXPLOTACION EXTENSIVA GANADO BOVINO       9
+EMPRESARIAL               1      012  EXPLOTAC. INTENSI.GANADO BOVINO DE LECHE       3
+EMPRESARIAL               1      013    EXPLOT.INTENSIVA GANADO BOVINO DE CEBO       8
+EMPRESARIAL               1      022      EXPLOT.INTENSIV.GANADO OVINO DE CRIA       1
+EMPRESARIAL               1      023   EXPLOTAC.INTENSIVA GANADO OVINO DE CEBO       2
+EMPRESARIAL               1     0412    PONEDORAS HUEVOS A PARTIR CUATRO MESES       5
+EMPRESARIAL               1      051                               CUNICULTURA       1
+EMPRESARIAL               1      061                    EXPLOT.GANADO CABALLAR       4
+EMPRESARIAL               1      062                                APICULTURA       1
+EMPRESARIAL               1      069             OTRAS EXPLOTACIONES GANADERAS       3
+EMPRESARIAL               1      071                      EXPLOTACIONES MIXTAS      31
+EMPRESARIAL               1     1111         EXTRACCION Y PREPARACION DE HULLA      11
+LOCAL AFECTO              1     1111         EXTRACCION Y PREPARACION DE HULLA       1
+EMPRESARIAL               1     1113    PREPARAC. HULLA FACTORIA INDEPENDIENTE       1
+EMPRESARIAL               1     1121       EXTRACC. Y PREPARACION DE ANTRACITA       1
+LOCAL AFECTO              1      130                        REFINO DE PETROLEO       1
+EMPRESARIAL               1     1511      PRODUCCION DE ENERGIA HIDROELECTRICA       1
+EMPRESARIAL               1     1512         PRODUCCION ENERGIA TERMOELECTRICA       1
+EMPRESARIAL               1     1514             OTRAS PRODUCCIONES DE ENERGIA      54
+LOCAL AFECTO              1     1514             OTRAS PRODUCCIONES DE ENERGIA       3
+EMPRESARIAL               1     1515       TTE. Y DISTRIBUCION DE ELECTRICIDAD       1
+EMPRESARIAL               1      152         FABRICACION Y DISTRIBUCION DE GAS       2
+LOCAL AFECTO              1      152         FABRICACION Y DISTRIBUCION DE GAS       1
+EMPRESARIAL               1      153  PRODUCC. Y DISTRIB. VAPOR Y AGUA CALIENT       1
+EMPRESARIAL               1     1611    CAPTACION TRATAMIENTO Y DISTR. DE AGUA       6
+LOCAL AFECTO              1     1611    CAPTACION TRATAMIENTO Y DISTR. DE AGUA       2
+EMPRESARIAL               1     1612      CAPTACION DE AGUA PARA SU SUMINISTRO       2
+EMPRESARIAL               1     1613   TRATAMIENTO DEL AGUA PARA SU SUMINISTRO       2
+EMPRESARIAL               1     1614   DISTRIBUCION DE AGUA EN NUCLEOS URBANOS       4
+EMPRESARIAL               1      162        FABRICACION DE HIELO PARA LA VENTA       2
+EMPRESARIAL               1      221                       SIDERURGIA INTEGRAL       9
+LOCAL AFECTO              1      221                       SIDERURGIA INTEGRAL      25
+EMPRESARIAL               1      222                    SIDERURGIA NO INTEGRAL       1
+EMPRESARIAL               1      223             FABRICACION DE TUBOS DE ACERO       1
+EMPRESARIAL               1      224                                 TREFILADO       2
+EMPRESARIAL               1     2251     PROD. Y PRIM. TRANSFORMACION ALUMINIO       3
+EMPRESARIAL               1     2259       PROD. Y PRIM. TRANSF. OTROS METALES       2
+EMPRESARIAL               1     2313     EXTRACC. ARENAS Y GRAVAS CONSTRUCCION       2
+LOCAL AFECTO              1     2313     EXTRACC. ARENAS Y GRAVAS CONSTRUCCION       1
+EMPRESARIAL               1     2391                    EXTRACCION DE FLUORITA       2
+LOCAL AFECTO              1     2421                FAB. CEMENTOS ARTIFICIALES       3
+EMPRESARIAL               1     2431                FAB. HORMIGONES PREPARADOS       7
+EMPRESARIAL               1     2432                FAB. PTOS. EN FIBROCEMENTO       1
+EMPRESARIAL               1     2433    FAB. OTROS ARTICULOS DERIVADOS CEMENTO       4
+EMPRESARIAL               1     2434     FAB. PAVIMENTOS DERIVADOS DEL CEMENTO       1
+EMPRESARIAL               1      244           INDUSTRIAS DE LA PIEDRA NATURAL      12
+LOCAL AFECTO              1      244           INDUSTRIAS DE LA PIEDRA NATURAL       1
+EMPRESARIAL               1     2461                         FAB. VIDRIO PLANO       1
+EMPRESARIAL               1     2465                      MANIPULADO DE VIDRIO      11
+LOCAL AFECTO              1     2465                      MANIPULADO DE VIDRIO       2
+EMPRESARIAL               1     2471               FAB. ARTICULOS REFRACTARIOS       2
+LOCAL AFECTO              1     2471               FAB. ARTICULOS REFRACTARIOS       2
+EMPRESARIAL               1     2472             FAB. BALDOSAS PARA PAVIMENTOS       1
+EMPRESARIAL               1     2474   FAB. VAJILLAS Y ARTICULOS PARA EL HOGAR       2
+LOCAL AFECTO              1     2474   FAB. VAJILLAS Y ARTICULOS PARA EL HOGAR       1
+EMPRESARIAL               1     2479           FAB. OTROS PTOS. CERAMICOS NCOP       5
+LOCAL AFECTO              1     2479           FAB. OTROS PTOS. CERAMICOS NCOP       1
+EMPRESARIAL               1      249        IND. OTROS PTOS. MINERALES NO MET.       4
+EMPRESARIAL               1     2513           FAB. PTOS. QUIMICOS INORGANICOS       2
+EMPRESARIAL               1     2521                            FAB. DE ABONOS       1
+EMPRESARIAL               1     2531                    FAB. GASES COMPRIMIDOS       3
+EMPRESARIAL               1     2533                             FAB. PINTURAS       1
+EMPRESARIAL               1     2539  FAB. OTROS PTOS. QUIMICOS USO INDUSTRIAL       1
+EMPRESARIAL               1     2542         FAB. ESPECIALIDADES FARMACEUTICAS       1
+EMPRESARIAL               1     2551                      FAB. JABONES COMUNES       4
+EMPRESARIAL               1     2552   FAB. JABONES TOCADOR Y PTOS. PERFUMERIA       1
+EMPRESARIAL               1     2559      FAB. OTROS PTOS. QUIMICOS DE CONSUMO       1
+EMPRESARIAL               1     3111        FUNDICION PIEZAS DE HIERRO Y ACERO       1
+EMPRESARIAL               1     3112       FUNDICION PIEZAS METALES NO FERREOS       3
+EMPRESARIAL               1      312                                     FORJA      20
+LOCAL AFECTO              1      312                                     FORJA       1
+EMPRESARIAL               1      313    TRATAMIENTO Y RECUBRIMIENTO DE METALES      29
+LOCAL AFECTO              1      313    TRATAMIENTO Y RECUBRIMIENTO DE METALES       3
+EMPRESARIAL               1     3141            FAB. ART. CARPINTERIA METALICA      87
+LOCAL AFECTO              1     3141            FAB. ART. CARPINTERIA METALICA       7
+EMPRESARIAL               1     3142                FAB. ESTRUCTURAS METALICAS      44
+LOCAL AFECTO              1     3142                FAB. ESTRUCTURAS METALICAS       1
+EMPRESARIAL               1      315         CONSTRUCC. DEPOSITOS Y CALDERERIA      17
+LOCAL AFECTO              1      315         CONSTRUCC. DEPOSITOS Y CALDERERIA       2
+EMPRESARIAL               1     3161                FAB. HERRAMIENTAS MANUALES       4
+EMPRESARIAL               1     3162   FAB. ARTICULOS DE FERRETERIA/CERRAJERIA      15
+LOCAL AFECTO              1     3162   FAB. ARTICULOS DE FERRETERIA/CERRAJERIA       1
+EMPRESARIAL               1     3163      TORNILLERIA Y ART. DERIVADOS ALAMBRE      10
+LOCAL AFECTO              1     3163      TORNILLERIA Y ART. DERIVADOS ALAMBRE       1
+EMPRESARIAL               1     3164                          FAB. ART. MENAJE       1
+LOCAL AFECTO              1     3164                          FAB. ART. MENAJE       1
+EMPRESARIAL               1     3166                  FAB. MOBILIARIO METALICO       8
+EMPRESARIAL               1     3167      FAB. RECIPIENTES Y ENVASES METALICOS       8
+LOCAL AFECTO              1     3167      FAB. RECIPIENTES Y ENVASES METALICOS       1
+EMPRESARIAL               1     3169       OTROS ART. ACABADOS EN METALES NCOP      23
+LOCAL AFECTO              1     3169       OTROS ART. ACABADOS EN METALES NCOP       2
+EMPRESARIAL               1     3191           TALLERES DE MECANICA EN GENERAL      29
+EMPRESARIAL               1     3199                   TALLERES MECANICOS NCOP      16
+EMPRESARIAL               1     3211                 CONSTRUCC. MAQ. AGRICOLAS       1
+EMPRESARIAL               1     3221      CONS. MAQUINAS PARA TRABAJAR METALES       4
+EMPRESARIAL               1     3223     FAB.UTILES PARA MAQUINAS HERRAMIENTAS       3
+EMPRESARIAL               1     3241                    MAQUINAS IND. ALIMENT.       1
+EMPRESARIAL               1     3251         CONST.MAQ. MINERIA Y CONSTRUCCION       2
+EMPRESARIAL               1     3252   CONST. MAQUINAS IND. MINERALES NO METAL       1
+EMPRESARIAL               1     3253   CONST. MAQ. PARA SIDERURGIA Y FUNDICION       2
+EMPRESARIAL               1     3254      CONST. MAQ. ELEVACION Y MANIPULACION       6
+LOCAL AFECTO              1     3254      CONST. MAQ. ELEVACION Y MANIPULACION       1
+EMPRESARIAL               1     3294       CONST. MAQ. MANIPULACION DE FLUIDOS       4
+EMPRESARIAL               1     3299          CONST. OTRAS MAQ. Y EQUIPOS NCOP      10
+LOCAL AFECTO              1     3299          CONST. OTRAS MAQ. Y EQUIPOS NCOP       2
+EMPRESARIAL               1      330         CONS.MAQ.DE OFICINA Y ORDENADORES      35
+EMPRESARIAL               1      342    FAB.MATERIAL ELECTRICO DE USO Y EQUIP.      16
+LOCAL AFECTO              1      342    FAB.MATERIAL ELECTRICO DE USO Y EQUIP.       1
+EMPRESARIAL               1      344      FAB. CONTADORES Y APARATOS DE MEDIDA       1
+EMPRESARIAL               1      345           FAB. APARATOS ELECTRODOMESTICOS       4
+LOCAL AFECTO              1      345           FAB. APARATOS ELECTRODOMESTICOS       1
+EMPRESARIAL               1      346     FAB. LAMPARAS Y MATERIAL DE ALUMBRADO      11
+LOCAL AFECTO              1      346     FAB. LAMPARAS Y MATERIAL DE ALUMBRADO       1
+EMPRESARIAL               1      352  FAB. APARATOS USO PROFESIONAL CIENTIFICO       3
+EMPRESARIAL               1      353                   FAB.APARAT.SEÑALIZACION       3
+EMPRESARIAL               1     3552                    EDICION SOPORTES AUDIO      14
+EMPRESARIAL               1      362                    CONSTRUCC. CARROCERIAS       6
+EMPRESARIAL               1      363                                FAB.EQUIPO       4
+LOCAL AFECTO              1      363                                FAB.EQUIPO       1
+EMPRESARIAL               1      371                        CONSTRUCCION NAVAL       5
+LOCAL AFECTO              1      371                        CONSTRUCCION NAVAL       1
+EMPRESARIAL               1      372      REPARACION Y MANTENIMIENTO DE BUQUES      10
+EMPRESARIAL               1      381     CONST.REPARAC.MANTENIM. FERROCARRILES       4
+EMPRESARIAL               1      382                      CONSTRUCC.REPARACION       1
+EMPRESARIAL               1      383                     CONSTR. MOTOS Y BICIS       6
+EMPRESARIAL               1      391                    FAB.INSTRUM. PRECISION       2
+EMPRESARIAL               1     3921           FAB. MATERIAL MEDICO-QUIRURGICO       4
+EMPRESARIAL               1     3922        FAB. APARATOS PROTESIS Y ORTOPEDIA      46
+EMPRESARIAL               1     4112                      FAB. ACEITE DE OLIVA       1
+EMPRESARIAL               1     4131           SACRIFICIO Y DESPIECE DE GANADO       1
+EMPRESARIAL               1     4132         FAB.PTOS.CARNICOS DE TODAS CLASES       6
+EMPRESARIAL               1     4141                      PREPARACION DE LECHE       2
+LOCAL AFECTO              1     4143                  FAB. QUESO Y MANTEQUILLA       2
+EMPRESARIAL               1     4144        ELABORACION DE HELADOS Y SIMILARES       5
+EMPRESARIAL               1      415          FAB. JUGOS Y CONSERVAS VEGETALES       6
+LOCAL AFECTO              1      415          FAB. JUGOS Y CONSERVAS VEGETALES       3
+EMPRESARIAL               1      416                    FAB. CONSERVAS PESCADO       8
+EMPRESARIAL               1     4171                    FAB. HARINAS Y SEMOLAS       4
+EMPRESARIAL               1     4181                  FAB. PASTAS ALIMENTICIAS       1
+EMPRESARIAL               1     4191              INDUSTRIA DEL PAN Y BOLLERIA      68
+LOCAL AFECTO              1     4191              INDUSTRIA DEL PAN Y BOLLERIA       3
+EMPRESARIAL               1     4192             INDUST. BOLLERIA Y PASTELERIA      20
+LOCAL AFECTO              1     4192             INDUST. BOLLERIA Y PASTELERIA       1
+EMPRESARIAL               1     4193          INDUST. ELABORACION MASAS FRITAS       1
+EMPRESARIAL               1     4211               INDUSTRIA CACAO Y CHOCOLATE       7
+EMPRESARIAL               1     4212              ELABORACION PTOS. CONFITERIA      13
+LOCAL AFECTO              1     4212              ELABORACION PTOS. CONFITERIA       1
+EMPRESARIAL               1     4222     HARINAS PESCADO Y OTROS PTOS. PIENSOS       2
+EMPRESARIAL               1     4231                                ELAB. CAFE       3
+EMPRESARIAL               1     4239       ELAB. OTROS PTOS. ALIMENTICIOS NCOP      11
+EMPRESARIAL               1     4243           OBTENC. AGUARDIENTES COMPUESTOS       1
+EMPRESARIAL               1     4251            ELABORACION Y CRIANZA DE VINOS       5
+EMPRESARIAL               1     4252            ELABORACION DE VINOS ESPUMOSOS       1
+EMPRESARIAL               1      426                                 SIDRERIAS      28
+EMPRESARIAL               1     4282   FAB. AGUAS GASEOSAS Y OTRAS BEBIDAS SIN       2
+EMPRESARIAL               1     4292             PRIMERA TRANSFORMACION TABACO       1
+EMPRESARIAL               1      434   INDUSTRIA DE LAS FIBRAS DURAS Y MEZCLAS       1
+EMPRESARIAL               1     4351            FAB. GENEROS DE PUNTO EN PIEZA       1
+EMPRESARIAL               1     4354          FAB. PRENDAS EXTERIORES DE PUNTO       1
+EMPRESARIAL               1      436                       ACABADO DE TEXTILES       3
+EMPRESARIAL               1     4371                  FAB. ALFOMBRAS Y TAPICES       2
+EMPRESARIAL               1     4391                                CORDELERIA       1
+EMPRESARIAL               1     4421            FAB.ART. MARROQUINERIA Y VIAJE       1
+EMPRESARIAL               1     4422                      FAB. GUANTES DE PIEL       1
+EMPRESARIAL               1     4429        FAB. OTROS ARTICULOS DE CUERO NCOP       3
+EMPRESARIAL               1      452         FAB. CALZADO ARTESANIA Y A MEDIDA       4
+EMPRESARIAL               1      453        CONFECC. TODA CLASE PRENDAS VESTIR      38
+LOCAL AFECTO              1      453        CONFECC. TODA CLASE PRENDAS VESTIR       2
+EMPRESARIAL               1      454            CONFECC. MEDIDA PRENDAS VESTIR      34
+EMPRESARIAL               1     4551    CONFECC. ART. TEXTILES HOGAR/TAPICERIA      22
+LOCAL AFECTO              1     4551    CONFECC. ART. TEXTILES HOGAR/TAPICERIA       2
+EMPRESARIAL               1     4559         CONFECC. OTROS ART. TEXTILES NCOP       8
+EMPRESARIAL               1     4561                         PELETERIA NATURAL       1
+EMPRESARIAL               1      461  ASERRADO Y PREP. INDUSTRIAL DE LA MADERA       6
+EMPRESARIAL               1     4621                          CHAPAS DE MADERA       1
+EMPRESARIAL               1     4623                        TABLEROS Y PANELES       1
+EMPRESARIAL               1      463          FAB. SERIE PIEZAS DE CARPINTERIA      35
+LOCAL AFECTO              1      463          FAB. SERIE PIEZAS DE CARPINTERIA       3
+EMPRESARIAL               1      464        FAB. ENVASES Y EMBALAJES DE MADERA       2
+EMPRESARIAL               1      465           FAB. OBJETOS DIVERSOS DE MADERA      22
+LOCAL AFECTO              1      465           FAB. OBJETOS DIVERSOS DE MADERA       1
+EMPRESARIAL               1     4681   FAB. MOBILIARIO DE MADERA PARA EL HOGAR      57
+LOCAL AFECTO              1     4681   FAB. MOBILIARIO DE MADERA PARA EL HOGAR       1
+EMPRESARIAL               1     4682  FAB. MOBILIARIO MADERA ESCOLAR Y OFICINA       3
+EMPRESARIAL               1     4683                  FAB. MUEBLES DIV. MADERA      11
+EMPRESARIAL               1     4684                              FAB. ATAUDES       1
+EMPRESARIAL               1     4685                 ACTIV. ANEXAS IND. MUEBLE      25
+EMPRESARIAL               1      471                       FAB. PASTA PAPELERA       1
+LOCAL AFECTO              1      471                       FAB. PASTA PAPELERA       1
+EMPRESARIAL               1     4732  FAB. OTROS ART. Y ENVASES PAPEL Y CARTON       6
+LOCAL AFECTO              1     4732  FAB. OTROS ART. Y ENVASES PAPEL Y CARTON       1
+EMPRESARIAL               1     4733                         FAB. ART. OFICINA       2
+LOCAL AFECTO              1     4733                         FAB. ART. OFICINA       1
+EMPRESARIAL               1     4734    FAB. ART. DECORACION EN PAPEL Y CARTON       1
+EMPRESARIAL               1     4739     FAB. OTROS MANIPULADOS PAPEL Y CARTON       1
+LOCAL AFECTO              1     4739     FAB. OTROS MANIPULADOS PAPEL Y CARTON       1
+EMPRESARIAL               1      474        ARTES GRAFICAS (IMPRESION GRAFICA)      84
+LOCAL AFECTO              1      474        ARTES GRAFICAS (IMPRESION GRAFICA)       2
+EMPRESARIAL               1      475         ACTIVIDADES ANEXAS ARTES GRAFICAS      32
+EMPRESARIAL               1     4761                         EDICION DE LIBROS      51
+LOCAL AFECTO              1     4761                         EDICION DE LIBROS       2
+EMPRESARIAL               1     4762          EDICION DE PERIODICOS Y REVISTAS      29
+LOCAL AFECTO              1     4762          EDICION DE PERIODICOS Y REVISTAS       2
+EMPRESARIAL               1     4769                      OTRAS EDICIONES NCOP      17
+EMPRESARIAL               1     4812   RECAUCHUTADO Y RECONSTRUCCION CUBIERTAS       3
+EMPRESARIAL               1     4819               FAB. OTROS ART. CAUCHO NCOP       9
+LOCAL AFECTO              1     4819               FAB. OTROS ART. CAUCHO NCOP       1
+EMPRESARIAL               1     4821        FAB. PTOS. SEMIELABORADOS PLASTICO       4
+EMPRESARIAL               1     4822     FAB. ART. ACABADOS MATERIAS PLASTICAS      14
+EMPRESARIAL               1     4911                                   JOYERIA      35
+LOCAL AFECTO              1     4911                                   JOYERIA       1
+EMPRESARIAL               1     4912                                 BISUTERIA       5
+EMPRESARIAL               1      492               FAB. INSTRUMENTOS DE MUSICA       1
+EMPRESARIAL               1      493      LABORATORIOS FOTOGRAFICOS Y CINEMAT.       3
+EMPRESARIAL               1     4941                    FAB. JUEGOS Y JUGUETES       1
+LOCAL AFECTO              1     4941                    FAB. JUEGOS Y JUGUETES       2
+EMPRESARIAL               1     4942                         FAB. ART. DEPORTE       6
+EMPRESARIAL               1     4959                      FAB. OTROS ART. NCOP      12
+LOCAL AFECTO              1     4959                      FAB. OTROS ART. NCOP       1
+EMPRESARIAL               1     5011                     CONSTRUCCION COMPLETA     457
+LOCAL AFECTO              1     5011                     CONSTRUCCION COMPLETA      89
+EMPRESARIAL               1     5012         CONSTRUCC. COMPLETA OBRAS CIVILES      46
+LOCAL AFECTO              1     5012         CONSTRUCC. COMPLETA OBRAS CIVILES      14
+EMPRESARIAL               1     5013  ALBAÑILERIA Y PEQ. TRABAJOS CONSTRUCCION     612
+LOCAL AFECTO              1     5013  ALBAÑILERIA Y PEQ. TRABAJOS CONSTRUCCION      35
+EMPRESARIAL               1     5021        DEMOLICIONES Y DERRIBOS EN GENERAL      13
+EMPRESARIAL               1     5022   CONSOLIDACION Y PREPARACION DE TERRENOS      30
+EMPRESARIAL               1     5023  CONSOLID. Y PREP. TERRENOS OBRAS CIVILES      12
+EMPRESARIAL               1     5025  CIMENTACIONES Y PAVIMENTAC.OBRAS CIVILES       2
+EMPRESARIAL               1     5026      PERFORACIONES ALUMBRAMIENTO DE AGUAS       1
+EMPRESARIAL               1     5031     PREP. MONTAJE ESTRUCTURAS Y CUBIERTAS      11
+LOCAL AFECTO              1     5031     PREP. MONTAJE ESTRUCTURAS Y CUBIERTAS       5
+EMPRESARIAL               1     5032  PREP. ESTRUC. CUBIERTAS EN OBRAS CIVILES       3
+EMPRESARIAL               1     5033    MONTAJE ESTRUC. METALICAS TTE. Y OBRAS       9
+LOCAL AFECTO              1     5033    MONTAJE ESTRUC. METALICAS TTE. Y OBRAS       3
+EMPRESARIAL               1     5034    OBRAS SIN MAQUINAS Y SIN MAS 4 OBREROS       5
+LOCAL AFECTO              1     5034    OBRAS SIN MAQUINAS Y SIN MAS 4 OBREROS       1
+EMPRESARIAL               1     5041       INSTALACIONES ELECTRICAS EN GENERAL     268
+LOCAL AFECTO              1     5041       INSTALACIONES ELECTRICAS EN GENERAL      59
+EMPRESARIAL               1     5042                  INSTALACIONES FONTANERIA     171
+LOCAL AFECTO              1     5042                  INSTALACIONES FONTANERIA      30
+EMPRESARIAL               1     5043                INSTALACIONES FRIO Y CALOR      80
+LOCAL AFECTO              1     5043                INSTALACIONES FRIO Y CALOR      15
+EMPRESARIAL               1     5044                  INSTALACIONES PARARRAYOS       1
+EMPRESARIAL               1     5045                       INSTALACION COCINAS      33
+LOCAL AFECTO              1     5045                       INSTALACION COCINAS       1
+EMPRESARIAL               1     5046           INSTALACION APARATOS ELEVADORES      14
+LOCAL AFECTO              1     5046           INSTALACION APARATOS ELEVADORES       3
+EMPRESARIAL               1     5047                 INSTALACIONES TELEFONICAS      24
+LOCAL AFECTO              1     5047                 INSTALACIONES TELEFONICAS       8
+EMPRESARIAL               1     5048   MONTAJES METALICOS E INSTALAC. INDUSTR.      33
+LOCAL AFECTO              1     5048   MONTAJES METALICOS E INSTALAC. INDUSTR.       8
+EMPRESARIAL               1     5051    REVESTIMIENTOS EXTERIORES E INTERIORES      56
+LOCAL AFECTO              1     5051    REVESTIMIENTOS EXTERIORES E INTERIORES       3
+EMPRESARIAL               1     5052                      SOLADOS Y PAVIMENTOS      25
+LOCAL AFECTO              1     5052                      SOLADOS Y PAVIMENTOS       1
+EMPRESARIAL               1     5053            SOLADOS Y PAVIMENTOS DE MADERA      53
+LOCAL AFECTO              1     5053            SOLADOS Y PAVIMENTOS DE MADERA       5
+EMPRESARIAL               1     5054   COLOCACION DE AISLAMIENTOS EN EDIFICIOS      45
+LOCAL AFECTO              1     5054   COLOCACION DE AISLAMIENTOS EN EDIFICIOS       6
+EMPRESARIAL               1     5055                  CARPINTERIA Y CERRAJERIA     181
+LOCAL AFECTO              1     5055                  CARPINTERIA Y CERRAJERIA      24
+EMPRESARIAL               1     5056                                   PINTURA     188
+LOCAL AFECTO              1     5056                                   PINTURA      16
+EMPRESARIAL               1     5057  TRABAJOS EN YESO  ESCAYOLA  Y DECORACION      44
+LOCAL AFECTO              1     5057  TRABAJOS EN YESO  ESCAYOLA  Y DECORACION       3
+EMPRESARIAL               1     5060                   INSTALACION DE ANDAMIOS      14
+LOCAL AFECTO              1     5060                   INSTALACION DE ANDAMIOS       2
+EMPRESARIAL               1      507       CONSTRUCCION DE TODA CLASE DE OBRAS      39
+LOCAL AFECTO              1      507       CONSTRUCCION DE TODA CLASE DE OBRAS       5
+EMPRESARIAL               1      508   AGRUPACIONES Y UNIONES TEMPOR. EMPRESAS      71
+EMPRESARIAL               1      611        COM. MAY. TODA CLASE DE MERCANCIAS      22
+EMPRESARIAL               1     6121  COM.MAY.PTOS.ALIMENTIC.BEBIDAS Y TABACOS      62
+LOCAL AFECTO              1     6121  COM.MAY.PTOS.ALIMENTIC.BEBIDAS Y TABACOS       2
+EMPRESARIAL               1     6122                          COM.MAY.CEREALES      28
+EMPRESARIAL               1     6123                 COM.MAY.FRUTAS Y VERDURAS      13
+EMPRESARIAL               1     6124                           COM.MAY. CARNES      15
+EMPRESARIAL               1     6125                             COM.MAY.LECHE       8
+EMPRESARIAL               1     6126                  COM.MAY.BEBIDAS Y TABACO      27
+LOCAL AFECTO              1     6126                  COM.MAY.BEBIDAS Y TABACO       1
+EMPRESARIAL               1     6127        COM.MAY. VINOS Y VINAGRES DEL PAIS      15
+EMPRESARIAL               1     6128                         COM.MAY. PESCADOS      39
+LOCAL AFECTO              1     6128                         COM.MAY. PESCADOS       1
+EMPRESARIAL               1     6129              COM.MAY.OTROS PTOS. ALIMENT.      68
+EMPRESARIAL               1     6131                     COM.MAY.PTOS.TEXTILES      18
+LOCAL AFECTO              1     6131                     COM.MAY.PTOS.TEXTILES       1
+EMPRESARIAL               1     6132                COM.MAY.TEJIDOS POR METROS      10
+EMPRESARIAL               1     6133        COM.MAY. PRENDAS EXTERIORES VESTIR      19
+EMPRESARIAL               1     6134                           COM.MAY.CALZADO      11
+EMPRESARIAL               1     6135                         COM.MAY.CAMISERIA       8
+EMPRESARIAL               1     6139           COM.MAY.ACCESORIOS VESTIDO NCOP       8
+EMPRESARIAL               1     6141  COM.MAY.PTOS.FARMACEUTICOS Y MEDICAMENTO       8
+LOCAL AFECTO              1     6141  COM.MAY.PTOS.FARMACEUTICOS Y MEDICAMENTO       1
+EMPRESARIAL               1     6142                   COM.MAY.PTOS.PERFUMERIA      81
+LOCAL AFECTO              1     6142                   COM.MAY.PTOS.PERFUMERIA       2
+EMPRESARIAL               1     6143          COM.MAY.PTOS.MANTENIMIENTO HOGAR      15
+LOCAL AFECTO              1     6143          COM.MAY.PTOS.MANTENIMIENTO HOGAR       1
+EMPRESARIAL               1     6151        COM.MAY.VEHICULOS Y SUS ACCESORIOS      59
+EMPRESARIAL               1     6152                       COM.MAY. DE MUEBLES      40
+LOCAL AFECTO              1     6152                       COM.MAY. DE MUEBLES       2
+EMPRESARIAL               1     6153      COM. MAY. APARATOS ELECTRODOMESTICOS      44
+LOCAL AFECTO              1     6153      COM. MAY. APARATOS ELECTRODOMESTICOS       2
+EMPRESARIAL               1     6154           COM.MAY.APAR.Y MAT. ELECTRONICO      65
+LOCAL AFECTO              1     6154           COM.MAY.APAR.Y MAT. ELECTRONICO       1
+EMPRESARIAL               1     6156                          GALERIAS DE ARTE      19
+EMPRESARIAL               1     6159  COM.MAY.OTROS ART. CONSUMO DURADERO NCOP      13
+EMPRESARIAL               1     6161                           COM.MAY. CARBON       4
+EMPRESARIAL               1     6162                   COM.MAY. HIERRO Y ACERO      24
+EMPRESARIAL               1     6163                        COM.MAY. MINERALES       2
+EMPRESARIAL               1     6164               COM.MAY. METALES NO FERREOS      13
+EMPRESARIAL               1     6165           COM.MAY. PETROLEO Y LUBRICANTES      16
+EMPRESARIAL               1     6166       COM.MAY.PTOS. QUIMICOS INDUSTRIALES      16
+EMPRESARIAL               1     6169  COM.MAY.PTOS.INTERINDUSTRIALES Y QUIMIC.       4
+EMPRESARIAL               1     6171            COM.MAY.FIBRAS TEXTILES BRUTAS       1
+EMPRESARIAL               1     6172         COM.MAY. CUEROS Y PIELES EN BRUTO       1
+EMPRESARIAL               1     6173                  COM.MAY. MADERA Y CORCHO      31
+EMPRESARIAL               1     6174          COM.MAY. MATERIALES CONSTRUCCION      76
+LOCAL AFECTO              1     6174          COM.MAY. MATERIALES CONSTRUCCION       2
+EMPRESARIAL               1     6175   COM.MAY. MAQUINARIA PARA MADERA Y METAL      32
+EMPRESARIAL               1     6176              COM.MAY. MAQUINARIA AGRICOLA       5
+EMPRESARIAL               1     6177                COM.MAY. MAQUINARIA TEXTIL       2
+LOCAL AFECTO              1     6177                COM.MAY. MAQUINARIA TEXTIL       1
+EMPRESARIAL               1     6178      COM.MAY. MAQUINAS Y MATERIAL OFICINA      43
+LOCAL AFECTO              1     6178      COM.MAY. MAQUINAS Y MATERIAL OFICINA       2
+EMPRESARIAL               1     6179    COM.MAY.INTERINDUSTRIAL EXCEP. QUIMICA     112
+LOCAL AFECTO              1     6179    COM.MAY.INTERINDUSTRIAL EXCEP. QUIMICA       9
+EMPRESARIAL               1     6181         EXPORTACION TODA CLASE MERCANCIAS       7
+LOCAL AFECTO              1     6181         EXPORTACION TODA CLASE MERCANCIAS       1
+EMPRESARIAL               1     6191     COM.MAY. JUGUETES Y ARTICULOS DEPORTE      23
+LOCAL AFECTO              1     6191     COM.MAY. JUGUETES Y ARTICULOS DEPORTE       1
+EMPRESARIAL               1     6192   COM.MAY. INSTRUM. MEDICOS Y ORTOPEDICOS      34
+LOCAL AFECTO              1     6192   COM.MAY. INSTRUM. MEDICOS Y ORTOPEDICOS       4
+EMPRESARIAL               1     6193                COM.MAY. METALES PRECIOSOS      27
+LOCAL AFECTO              1     6193                COM.MAY. METALES PRECIOSOS       2
+EMPRESARIAL               1     6194           COM.MAY.PTOS. DE PAPEL Y CARTON      11
+EMPRESARIAL               1     6195        COM.MAY.ART.PAPELERIA Y ESCRITORIO      19
+EMPRESARIAL               1     6196                           COM.MAY. LIBROS       9
+EMPRESARIAL               1     6197        COM.MAY.INSTRUM.PRECISION Y MEDIDA       2
+EMPRESARIAL               1     6198                    COMPRA-VENTA DE GANADO      12
+EMPRESARIAL               1     6199              COM.MAY.OTROS PRODUCTOS NCOP      26
+LOCAL AFECTO              1     6199              COM.MAY.OTROS PRODUCTOS NCOP       1
+EMPRESARIAL               1      621        COM.MAY.CHATARRA Y METALES DESECHO      40
+LOCAL AFECTO              1      621        COM.MAY.CHATARRA Y METALES DESECHO       4
+EMPRESARIAL               1      622          COM.MAY.OTROS PTOS. RECUPERACION       7
+EMPRESARIAL               1      623  RECUPERACION Y COM. RESIDUOS SIN ESTABL.       6
+EMPRESARIAL               1      631               INTERMEDIARIOS DEL COMERCIO     194
+LOCAL AFECTO              1      631               INTERMEDIARIOS DEL COMERCIO       7
+EMPRESARIAL               1      641                            COM.MEN.FRUTAS      67
+LOCAL AFECTO              1      641                            COM.MEN.FRUTAS       1
+EMPRESARIAL               1     6421                            COM.MEN.CARNES      12
+EMPRESARIAL               1     6422          COM.MEN.CARNICERIAS-CHARCUTERIAS      64
+EMPRESARIAL               1     6423         COM.MEN.CARNICERIAS-SALCHICHERIAS      55
+EMPRESARIAL               1     6424                       COM.MEN.CARNICERIAS      43
+EMPRESARIAL               1     6425                            COM.MEN.HUEVOS       2
+EMPRESARIAL               1     6431                          COM.MEN.PESCADOS     111
+LOCAL AFECTO              1     6431                          COM.MEN.PESCADOS       2
+EMPRESARIAL               1     6441                               COM.MEN.PAN     138
+EMPRESARIAL               1     6442                             DESPACHOS PAN      40
+EMPRESARIAL               1     6443                   COM.MEN.PTOS.PASTELERIA      38
+LOCAL AFECTO              1     6443                   COM.MEN.PTOS.PASTELERIA       1
+EMPRESARIAL               1     6444                           COM.MEN.HELADOS       4
+EMPRESARIAL               1     6445              COM.MEN.BOMBONES Y CARAMELOS      10
+EMPRESARIAL               1     6446                      COM.MEN.MASAS FRITAS      48
+EMPRESARIAL               1      645                   COM.MEN.VINOS Y BEBIDAS       6
+LOCAL AFECTO              1      645                   COM.MEN.VINOS Y BEBIDAS       1
+EMPRESARIAL               1     6461           COM.MEN.TABACOS EN EXPENDIDURIA      76
+LOCAL AFECTO              1     6461           COM.MEN.TABACOS EN EXPENDIDURIA       1
+EMPRESARIAL               1     6464      COM.MEN.TABACO CON VENTA POR RECARGO     192
+EMPRESARIAL               1     6465       COM.MEN.TABACO MAQUINAS AUTOMATICAS     552
+EMPRESARIAL               1     6466        COM.MEN.TABACOS VENTA NO ESTANCADA       1
+EMPRESARIAL               1     6468         COM.MEN. ARTICULOS PARA FUMADORES       5
+EMPRESARIAL               1     6471       COM.MEN.PTOS.ALIMENTICIOS Y BEBIDAS     357
+LOCAL AFECTO              1     6471       COM.MEN.PTOS.ALIMENTICIOS Y BEBIDAS       3
+EMPRESARIAL               1     6472    COM.MEN.PTOS.ALIMENTICIOS MENOS 120 M2      39
+EMPRESARIAL               1     6473    COM.MEN.PTOS.ALIMENTICIOS 120 - 399 M2      22
+EMPRESARIAL               1     6474      COM.MEN.PTOS.ALIMENTICIOS SUP.400 M2      76
+EMPRESARIAL               1     6475         PTOS.ALIMENTICIOS Y BEB. MAQUINAS      61
+LOCAL AFECTO              1     6475         PTOS.ALIMENTICIOS Y BEB. MAQUINAS       1
+EMPRESARIAL               1     6511       COM.MEN.PTOS.TEXTILES PARA EL HOGAR     108
+LOCAL AFECTO              1     6511       COM.MEN.PTOS.TEXTILES PARA EL HOGAR       4
+EMPRESARIAL               1     6512        COM.MEN.PRENDAS DE VESTIR Y TOCADO     611
+LOCAL AFECTO              1     6512        COM.MEN.PRENDAS DE VESTIR Y TOCADO      22
+EMPRESARIAL               1     6513             COM.MEN.LENCERIA Y CORSETERIA      54
+EMPRESARIAL               1     6514             COM.MEN.MERCERIA Y PAQUETERIA     108
+LOCAL AFECTO              1     6514             COM.MEN.MERCERIA Y PAQUETERIA       3
+EMPRESARIAL               1     6515                COM.MEN.PRENDAS ESPECIALES      17
+EMPRESARIAL               1     6516       COM.MEN.CALZADO Y COMPLEMENTOS PIEL     194
+LOCAL AFECTO              1     6516       COM.MEN.CALZADO Y COMPLEMENTOS PIEL      12
+EMPRESARIAL               1     6517         COM.MEN.CONFECCIONES DE PELETERIA       7
+LOCAL AFECTO              1     6517         COM.MEN.CONFECCIONES DE PELETERIA       2
+EMPRESARIAL               1     6521                                 FARMACIAS     132
+LOCAL AFECTO              1     6521                                 FARMACIAS       3
+EMPRESARIAL               1     6522                    COM.MEN.PTOS.DROGUERIA     105
+LOCAL AFECTO              1     6522                    COM.MEN.PTOS.DROGUERIA       2
+EMPRESARIAL               1     6523       COM.MEN.PTOS.PERFUMERIA Y COSMETICA     110
+EMPRESARIAL               1     6524                 COM.MEN.PLANTAS Y HIERBAS      87
+LOCAL AFECTO              1     6524                 COM.MEN.PLANTAS Y HIERBAS       1
+EMPRESARIAL               1     6531         COM.MEN.MUEBLES (EXCEPTO OFICINA)     190
+LOCAL AFECTO              1     6531         COM.MEN.MUEBLES (EXCEPTO OFICINA)      16
+EMPRESARIAL               1     6532         COM.MEN.APARATOS DE USO DOMESTICO     288
+LOCAL AFECTO              1     6532         COM.MEN.APARATOS DE USO DOMESTICO      13
+EMPRESARIAL               1     6533                        COM.MEN.ART.MENAJE     273
+LOCAL AFECTO              1     6533                        COM.MEN.ART.MENAJE      14
+EMPRESARIAL               1     6534        COM.MEN.MATERIALES DE CONSTRUCCION     100
+LOCAL AFECTO              1     6534        COM.MEN.MATERIALES DE CONSTRUCCION       8
+EMPRESARIAL               1     6535                           COM.MEN.PUERTAS      68
+LOCAL AFECTO              1     6535                           COM.MEN.PUERTAS       3
+EMPRESARIAL               1     6536        COM. MEN. ARTICULOS DE 'BRICOLAGE'       9
+EMPRESARIAL               1     6539                    COM.MEN.ART.HOGAR NCOP      39
+LOCAL AFECTO              1     6539                    COM.MEN.ART.HOGAR NCOP       5
+EMPRESARIAL               1     6541              COM.MEN.VEHICULOS TERRESTRES     116
+LOCAL AFECTO              1     6541              COM.MEN.VEHICULOS TERRESTRES       6
+EMPRESARIAL               1     6542  COM.MEN.ACCESORIOS Y RECAMBIOS VEHICULOS      34
+LOCAL AFECTO              1     6542  COM.MEN.ACCESORIOS Y RECAMBIOS VEHICULOS       2
+EMPRESARIAL               1     6544   COM.MEN.VEHICULOS FLUVIALES Y MARITIMOS       4
+EMPRESARIAL               1     6545       COM.MEN.DE TODA CLASE DE MAQUINARIA      63
+LOCAL AFECTO              1     6545       COM.MEN.DE TODA CLASE DE MAQUINARIA       2
+EMPRESARIAL               1     6546                         COM.MEN.CUBIERTAS      23
+LOCAL AFECTO              1     6546                         COM.MEN.CUBIERTAS       1
+EMPRESARIAL               1     6551         COM.MEN.COMBUSTIBLES TODAS CLASES       6
+EMPRESARIAL               1     6552                COM.MEN.GASES COMBUSTIBLES       7
+LOCAL AFECTO              1     6552                COM.MEN.GASES COMBUSTIBLES       1
+EMPRESARIAL               1     6553   COM.MEN.CARBURANTES Y ACEITES VEHICULOS      42
+EMPRESARIAL               1      656                COM. MEN. DE BIENES USADOS      22
+LOCAL AFECTO              1      656                COM. MEN. DE BIENES USADOS       1
+EMPRESARIAL               1      657  COM.MEN. INSTRUMENTOS MUSICA Y ACCESORIO      10
+EMPRESARIAL               1     6591                            COM.MEN.SELLOS      17
+EMPRESARIAL               1     6592     COM.MEN.MUEBLES Y MAQUINAS DE OFICINA     182
+LOCAL AFECTO              1     6592     COM.MEN.MUEBLES Y MAQUINAS DE OFICINA       5
+EMPRESARIAL               1     6593                  COM.MEN.APARATOS MEDICOS     121
+LOCAL AFECTO              1     6593                  COM.MEN.APARATOS MEDICOS       2
+EMPRESARIAL               1     6594                            COM.MEN.LIBROS     332
+LOCAL AFECTO              1     6594                            COM.MEN.LIBROS       7
+EMPRESARIAL               1     6595                       COM.MEN.ART.JOYERIA     134
+LOCAL AFECTO              1     6595                       COM.MEN.ART.JOYERIA       4
+EMPRESARIAL               1     6596                          COM.MEN.JUGUETES     129
+LOCAL AFECTO              1     6596                          COM.MEN.JUGUETES       5
+EMPRESARIAL               1     6597                          COM.MEN.SEMILLAS     134
+LOCAL AFECTO              1     6597                          COM.MEN.SEMILLAS       2
+EMPRESARIAL               1     6598                          COM.MEN.SEX-SHOP       7
+LOCAL AFECTO              1     6598                          COM.MEN.SEX-SHOP       2
+EMPRESARIAL               1     6599                  COM.MEN.OTROS PTOS. NCOP      37
+LOCAL AFECTO              1     6599                  COM.MEN.OTROS PTOS. NCOP       1
+EMPRESARIAL               1     6611                 COM.MEN.GRANDES ALMACENES       2
+EMPRESARIAL               1     6612                  COM.MEN.EN HIPERMERCADOS       6
+EMPRESARIAL               1     6613               COM.MEN.ALMACENES POPULARES      15
+EMPRESARIAL               1     6622  COM.MEN.TODA CLASE ART. EN OTROS LOCALES     128
+LOCAL AFECTO              1     6622  COM.MEN.TODA CLASE ART. EN OTROS LOCALES       8
+EMPRESARIAL               1     6631   COM.MEN.PTOS.ALIMENTICIOS SIN ESTABLEC.      48
+EMPRESARIAL               1     6632  COM.MEN.TEXTILES Y CONFECC.SIN ESTABLEC.      19
+LOCAL AFECTO              1     6632  COM.MEN.TEXTILES Y CONFECC.SIN ESTABLEC.       1
+EMPRESARIAL               1     6633       COM.MEN.CALZADO SIN ESTABLECIMIENTO       8
+EMPRESARIAL               1     6634     COM.MEN.DROGUERIA SIN ESTABLECIMIENTO      11
+EMPRESARIAL               1     6639  COM.MEN.OTRAS MERCANCIAS SIN ESTABLECIM.      70
+LOCAL AFECTO              1     6639  COM.MEN.OTRAS MERCANCIAS SIN ESTABLECIM.       2
+EMPRESARIAL               1     6641   VENTA ARTICULOS DIVERSOS EN EXPOSITORES       3
+EMPRESARIAL               1     6649          COM.MEN.ART.DIVERSOS EN MAQUINAS       4
+EMPRESARIAL               1      665             COM.MEN.POR CORREO O CATALOGO       7
+LOCAL AFECTO              1      665             COM.MEN.POR CORREO O CATALOGO       1
+EMPRESARIAL               1     6712             RESTAURANTES CUATRO TENEDORES       3
+EMPRESARIAL               1     6713            RESTAURANTES DE TRES TENEDORES       4
+EMPRESARIAL               1     6714             RESTAURANTES DE DOS TENEDORES     129
+LOCAL AFECTO              1     6714             RESTAURANTES DE DOS TENEDORES       1
+EMPRESARIAL               1     6715                RESTAURANTES DE UN TENEDOR     245
+LOCAL AFECTO              1     6715                RESTAURANTES DE UN TENEDOR       7
+EMPRESARIAL               1     6721                     CAFETERIAS TRES TAZAS       9
+EMPRESARIAL               1     6722                      CAFETERIAS DOS TAZAS      52
+LOCAL AFECTO              1     6722                      CAFETERIAS DOS TAZAS       1
+EMPRESARIAL               1     6723                    CAFETERIAS DE UNA TAZA     128
+LOCAL AFECTO              1     6723                    CAFETERIAS DE UNA TAZA       2
+EMPRESARIAL               1     6731                  BARES CATEGORIA ESPECIAL     106
+LOCAL AFECTO              1     6731                  BARES CATEGORIA ESPECIAL       4
+EMPRESARIAL               1     6732                       OTROS CAFES Y BARES    1660
+LOCAL AFECTO              1     6732                       OTROS CAFES Y BARES      14
+EMPRESARIAL               1     6741                      CAFE-BAR EN VEHICULO       1
+EMPRESARIAL               1     6745                       CAFE-BAR SOCIEDADES      13
+LOCAL AFECTO              1     6745                       CAFE-BAR SOCIEDADES       1
+EMPRESARIAL               1     6746                  CAFE-BAR TEATROS Y CINES       6
+EMPRESARIAL               1     6747  SERVICIOS EN PARQUES O RECINTOS FERIALES       2
+EMPRESARIAL               1      675                   CAFES-BARES EN QUIOSCOS       7
+EMPRESARIAL               1      676                             CHOCOLATERIAS       1
+EMPRESARIAL               1     6771   HOSTELERIA Y RESTAURACION SIN ESTABLEC.      15
+EMPRESARIAL               1     6779   OTROS SERV. ALIMENTACION - RESTAURACION      62
+EMPRESARIAL               1      681            HOSPEDAJE EN HOTELES Y MOTELES      52
+LOCAL AFECTO              1      681            HOSPEDAJE EN HOTELES Y MOTELES       2
+EMPRESARIAL               1      682         HOSPEDAJE EN HOSTALES Y PENSIONES      21
+EMPRESARIAL               1      683    HOSPEDAJES EN FONDAS Y CASAS HUESPEDES       9
+EMPRESARIAL               1      684               HOSPEDAJE EN APARTA-HOTELES       2
+EMPRESARIAL               1      685    ALOJAMIENTOS TURISTICOS EXTRAHOTELEROS      15
+EMPRESARIAL               1      686         EXPLOTACION APARTAMENTOS PRIVADOS       1
+EMPRESARIAL               1     6872              CAMPAMENTOS DE PRIMERA CLASE       1
+EMPRESARIAL               1     6911         REPARACION ART. ELECTRODOMESTICOS      65
+EMPRESARIAL               1     6912       REPARACION AUTOMOVILES Y BICICLETAS     302
+LOCAL AFECTO              1     6912       REPARACION AUTOMOVILES Y BICICLETAS       3
+EMPRESARIAL               1     6919      REPARACION OTROS BIENES CONSUMO NCOP     123
+LOCAL AFECTO              1     6919      REPARACION OTROS BIENES CONSUMO NCOP       1
+EMPRESARIAL               1      692       REPARACION DE MAQUINARIA INDUSTRIAL      80
+LOCAL AFECTO              1      692       REPARACION DE MAQUINARIA INDUSTRIAL       4
+EMPRESARIAL               1      699                   OTRAS REPARACIONES NCOP      86
+LOCAL AFECTO              1      699                   OTRAS REPARACIONES NCOP       4
+EMPRESARIAL               1      711            TTE. FERROCARRIL DE VIA NORMAL       2
+EMPRESARIAL               1      712          TTE. FERROVIARIO DE VIA ESTRECHA       1
+EMPRESARIAL               1     7211                     TTE. URBANO COLECTIVO       4
+LOCAL AFECTO              1     7211                     TTE. URBANO COLECTIVO       1
+EMPRESARIAL               1     7212                        TTE. POR AUTOTAXIS      93
+EMPRESARIAL               1     7213               TTE. VIAJEROS POR CARRETERA       3
+EMPRESARIAL               1      722             TTE. MERCANCIAS POR CARRETERA     369
+LOCAL AFECTO              1      722             TTE. MERCANCIAS POR CARRETERA      23
+EMPRESARIAL               1      729               OTROS TTES. TERRESTRES NCOP       2
+LOCAL AFECTO              1     7331    TTE. CABOTAJE Y VIAS INTERIOR VIAJEROS       1
+EMPRESARIAL               1     7332  TTE. CABOTAJE Y VIAS INTERIOR MERCANCIAS       2
+EMPRESARIAL               1     7421              TTE. AEREO NACIONAL VIAJEROS       1
+EMPRESARIAL               1     7511   GUARDIA Y CUSTODIA VEHICULOS EN GARAJES      49
+EMPRESARIAL               1     7512    GUARDIA Y CUSTODIA VEHICULOS 'PARKING'      54
+LOCAL AFECTO              1     7512    GUARDIA Y CUSTODIA VEHICULOS 'PARKING'       2
+EMPRESARIAL               1     7513   GUARDIA Y CUSTODIA VEHICULOS EN SOLARES       7
+EMPRESARIAL               1     7515             ENGRASE Y LAVADO DE VEHICULOS      61
+EMPRESARIAL               1     7516  SERVICIOS DE CARGA Y DESCARGA MERCANCIAS       4
+EMPRESARIAL               1     7521    SERVICIOS PILOTAJE Y PRACTICOS PUERTOS       3
+LOCAL AFECTO              1     7521    SERVICIOS PILOTAJE Y PRACTICOS PUERTOS       1
+EMPRESARIAL               1     7523           SERVICIOS DE REMOLQUE DE NAVIOS       2
+LOCAL AFECTO              1     7523           SERVICIOS DE REMOLQUE DE NAVIOS       1
+EMPRESARIAL               1     7525    SERV. SALVAMENTO Y RECUPERACION BARCOS       2
+EMPRESARIAL               1     7526      SERVICIOS CARGA Y DESCARGA DE BUQUES      12
+LOCAL AFECTO              1     7526      SERVICIOS CARGA Y DESCARGA DE BUQUES       5
+EMPRESARIAL               1     7527                    EXPLOTACION DE PUERTOS       2
+EMPRESARIAL               1     7534                            SERV. REMOLQUE       1
+EMPRESARIAL               1     7539     OTROS SERV. ANEXOS AL TTE. AEREO NCOP       2
+EMPRESARIAL               1     7541           DEPOSITOS Y ALMACENES GENERALES      10
+LOCAL AFECTO              1     7541           DEPOSITOS Y ALMACENES GENERALES       1
+EMPRESARIAL               1     7544                    ALMACENES FRIGORIFICOS       2
+EMPRESARIAL               1     7545         ALMACENES Y DEPOSITOS DE LIQUIDOS       2
+LOCAL AFECTO              1     7545         ALMACENES Y DEPOSITOS DE LIQUIDOS       1
+EMPRESARIAL               1     7546                             GUARDAMUEBLES       4
+EMPRESARIAL               1     7549           OTROS DEPOSITOS ESPECIALES NCOP       4
+LOCAL AFECTO              1     7549           OTROS DEPOSITOS ESPECIALES NCOP       2
+EMPRESARIAL               1      755                        AGENCIAS DE VIAJES     117
+EMPRESARIAL               1      756  ACTIV. AUXILIARES Y COMPLEMENTARIAS TTE.     131
+LOCAL AFECTO              1      756  ACTIV. AUXILIARES Y COMPLEMENTARIAS TTE.      10
+EMPRESARIAL               1      757                      SERVICIO DE MUDANZAS       2
+LOCAL AFECTO              1      757                      SERVICIO DE MUDANZAS       1
+LOCAL AFECTO              1     7611                SERVICIO DE TELEFONIA FIJA       1
+EMPRESARIAL               1      769       OTROS SERVICIOS DE TELECOMUNICACION      23
+LOCAL AFECTO              1      769       OTROS SERVICIOS DE TELECOMUNICACION       1
+EMPRESARIAL               1      811                                     BANCA     211
+LOCAL AFECTO              1      811                                     BANCA       7
+EMPRESARIAL               1      812                           CAJAS DE AHORRO      27
+LOCAL AFECTO              1      812                           CAJAS DE AHORRO       4
+EMPRESARIAL               1     8192   ESTABLECIMIENTOS FINANCIEROS DE CREDITO       1
+EMPRESARIAL               1     8193      E. F. C. ACT. DE PRESTAMOS Y CREDITO       5
+EMPRESARIAL               1     8195    E. F. C. ACT. ARRENDAMIENTO FINANCIERO       2
+EMPRESARIAL               1     8196             ENTIDADES DE CAMBIO DE MONEDA       3
+EMPRESARIAL               1     8199          OTRAS ENTIDADES FINANCIERAS NCOP      14
+EMPRESARIAL               1      821   ENTIDADES ASEGURADORES DE VIDA Y CAPIT.      15
+LOCAL AFECTO              1      821   ENTIDADES ASEGURADORES DE VIDA Y CAPIT.       1
+EMPRESARIAL               1      822      ASEGURADORAS DE ENFERMEDAD Y RIESGOS      25
+LOCAL AFECTO              1      822      ASEGURADORAS DE ENFERMEDAD Y RIESGOS       1
+EMPRESARIAL               1      823              OTRAS ENTIDADES ASEGURADORAS       5
+EMPRESARIAL               1     8311   SERV.COMPRA-VTA. DE VALORES MOBILIARIOS       6
+EMPRESARIAL               1     8312       SER. FINANC. CONTRATACION PRODUCTOS       2
+EMPRESARIAL               1     8313            SERV. DE COMPENSACION BANCARIA       1
+EMPRESARIAL               1     8319          OTROS SERVICIOS FINANCIEROS NCOP      42
+EMPRESARIAL               1     8321         AGENCIAS DE SEGUROS Y CORREDURIAS      84
+EMPRESARIAL               1     8322     SERV. TASACION Y TARIFICACION SEGUROS      17
+LOCAL AFECTO              1     8322     SERV. TASACION Y TARIFICACION SEGUROS       1
+EMPRESARIAL               1     8329         OTROS SERV. AUXILIARES DE SEGUROS      23
+EMPRESARIAL               1     8331        PROMOCION INMOBILIARIA DE TERRENOS      91
+LOCAL AFECTO              1     8331        PROMOCION INMOBILIARIA DE TERRENOS       9
+EMPRESARIAL               1     8332   PROMOCION INMOBILIARIA DE EDIFICACIONES     505
+LOCAL AFECTO              1     8332   PROMOCION INMOBILIARIA DE EDIFICACIONES     115
+EMPRESARIAL               1      834  SERV. PROPIEDAD INMOBILIARIA E INDUSTRIA     242
+LOCAL AFECTO              1      834  SERV. PROPIEDAD INMOBILIARIA E INDUSTRIA       4
+EMPRESARIAL               1      841                       SERVICIOS JURIDICOS     122
+LOCAL AFECTO              1      841                       SERVICIOS JURIDICOS       1
+EMPRESARIAL               1      842         SERVICIOS FINANCIEROS Y CONTABLES     249
+LOCAL AFECTO              1      842         SERVICIOS FINANCIEROS Y CONTABLES       2
+EMPRESARIAL               1     8431          SERVICIOS TECNICOS DE INGENIERIA     180
+LOCAL AFECTO              1     8431          SERVICIOS TECNICOS DE INGENIERIA       4
+EMPRESARIAL               1     8432                SERV. TEC. DE ARQUITECTURA      70
+LOCAL AFECTO              1     8432                SERV. TEC. DE ARQUITECTURA       2
+EMPRESARIAL               1     8433       SERV. TEC. PROSPECCIONES Y GEOLOGIA       3
+LOCAL AFECTO              1     8433       SERV. TEC. PROSPECCIONES Y GEOLOGIA       1
+EMPRESARIAL               1     8434              SERV. TECNICOS DE TOPOGRAFIA       7
+LOCAL AFECTO              1     8434              SERV. TECNICOS DE TOPOGRAFIA       1
+EMPRESARIAL               1     8435             SERV. TECNICOS DE DELINEACION       8
+EMPRESARIAL               1     8436           INSPECCION TECNICA DE VEHICULOS       1
+EMPRESARIAL               1     8439             OTROS SERVICIOS TECNICOS NCOP     163
+LOCAL AFECTO              1     8439             OTROS SERVICIOS TECNICOS NCOP       8
+EMPRESARIAL               1      844                      SERVICIOS PUBLICIDAD     205
+LOCAL AFECTO              1      844                      SERVICIOS PUBLICIDAD       2
+EMPRESARIAL               1      845      EXPLOTACION ELECTRONICA POR TERCEROS     179
+LOCAL AFECTO              1      845      EXPLOTACION ELECTRONICA POR TERCEROS       2
+EMPRESARIAL               1      846            EMPRESAS DE ESTUDIO DE MERCADO      31
+EMPRESARIAL               1      847      SERVICIOS INT. DE CORREOS Y TELECOM.       3
+EMPRESARIAL               1     8491    COBROS DE DEUDAS Y CONFECCION FACTURAS       6
+EMPRESARIAL               1     8492                      SERV. MECANOGRAFICOS       2
+EMPRESARIAL               1     8493              SERV. TRADUCCION Y SIMILARES      11
+EMPRESARIAL               1     8494                            SERV. CUSTODIA      22
+LOCAL AFECTO              1     8494                            SERV. CUSTODIA       2
+EMPRESARIAL               1     8495                SERVICIOS MENSAJERIA RECAD      36
+EMPRESARIAL               1     8496  SERV.COLOCACION Y SUMINISTRO DE PERSONAL      43
+LOCAL AFECTO              1     8496  SERV.COLOCACION Y SUMINISTRO DE PERSONAL       1
+EMPRESARIAL               1     8497              SERV. GESTION ADMINISTRATIVA      84
+LOCAL AFECTO              1     8497              SERV. GESTION ADMINISTRATIVA       1
+EMPRESARIAL               1     8498       MULTISERVIOS INTENSIVOS EN PERSONAL       5
+EMPRESARIAL               1     8499       OTROS SERVICIOS INDEPENDIENTES NCOP     265
+LOCAL AFECTO              1     8499       OTROS SERVICIOS INDEPENDIENTES NCOP       7
+EMPRESARIAL               1      851     ALQUILER MAQUINARIA Y EQUIPO AGRICOLA       4
+EMPRESARIAL               1      852   ALQUILER MAQUINARIA Y EQUIP. CONSTRUCC.      66
+LOCAL AFECTO              1      852   ALQUILER MAQUINARIA Y EQUIP. CONSTRUCC.       1
+EMPRESARIAL               1      853           ALQUILER MAQ. Y EQUIPO CONTABLE      12
+EMPRESARIAL               1     8541        ALQUILER AUTOMOVILES SIN CONDUCTOR      20
+LOCAL AFECTO              1     8541        ALQUILER AUTOMOVILES SIN CONDUCTOR       1
+EMPRESARIAL               1     8542         ALQUILER AUTOMOV. EN REG. RENTING       3
+EMPRESARIAL               1     8542         ALQUILER AUTOMOV. EN REG. RENTING       1
+EMPRESARIAL               1     8551     ALQUILER DE AERONAVES DE TODAS CLASES       1
+EMPRESARIAL               1     8552                 ALQUILER DE EMBARCACIONES      17
+EMPRESARIAL               1     8553                    ALQUILER DE BICICLETAS       2
+EMPRESARIAL               1     8559    ALQUILER OTROS MEDIOS TRANSP. N.C.O.P.       9
+EMPRESARIAL               1     8561             ALQUILER DE BIENES DE CONSUMO      22
+LOCAL AFECTO              1     8561             ALQUILER DE BIENES DE CONSUMO       1
+EMPRESARIAL               1     8562            ALQUILER DE PELICULAS DE VIDEO      40
+EMPRESARIAL               1      859        ALQUILER OTROS BIENES MUEBLES NCOP      67
+LOCAL AFECTO              1      859        ALQUILER OTROS BIENES MUEBLES NCOP       1
+EMPRESARIAL               1     8611                     ALQUILER DE VIVIENDAS      85
+LOCAL AFECTO              1     8611                     ALQUILER DE VIVIENDAS       7
+EMPRESARIAL               1     8612             ALQUILER LOCALES INDUSTRIALES    2690
+LOCAL AFECTO              1     8612             ALQUILER LOCALES INDUSTRIALES      24
+EMPRESARIAL               1      862               ALQUILER INMUEBLES RUSTICOS      14
+EMPRESARIAL               1      911           SERVICIOS AGRICOLAS Y GANADEROS      93
+LOCAL AFECTO              1      911           SERVICIOS AGRICOLAS Y GANADEROS       3
+EMPRESARIAL               1      912    SERVICIOS FORESTALES PESCA ACUICULTURA      15
+EMPRESARIAL               1     9211          SERV. LIMPIEZA VIARIA Y JARDINES       7
+EMPRESARIAL               1     9212      SERV. RECOGIDA DE BASURAS Y DESECHOS       5
+LOCAL AFECTO              1     9212      SERV. RECOGIDA DE BASURAS Y DESECHOS       1
+EMPRESARIAL               1     9213   EXTERMINIO ANIMALES DAÑINOS Y DESIFECC.       9
+EMPRESARIAL               1     9214                       SERV.ALCANTARILLADO       1
+EMPRESARIAL               1     9215                    SERVICIOS INCINERACION       4
+EMPRESARIAL               1     9216      SERV.PROTECCION Y ACONDIC. AMBIENTAL       1
+EMPRESARIAL               1     9217         SERV. PROTECCION CONTRA INCENDIOS       5
+EMPRESARIAL               1     9218                  SERV. ADMON. CEMENTERIOS       1
+EMPRESARIAL               1     9219   OTROS SERVICIOS DE SANEAMIENTO N.C.O.P.       3
+EMPRESARIAL               1      922                     SERVICIOS DE LIMPIEZA     212
+LOCAL AFECTO              1      922                     SERVICIOS DE LIMPIEZA      21
+EMPRESARIAL               1     9311            GUARDERIA Y ENSEÑANZA INFANTIL      25
+EMPRESARIAL               1     9312                ENSEÑANZA EDUCACION BASICA      21
+EMPRESARIAL               1     9313                    ENSEÑANZA BACHILLERATO      19
+EMPRESARIAL               1     9314           ENSEÑANZA DE VARIAS MODALIDADES      25
+EMPRESARIAL               1     9315           ENSEÑANZA DE EDUCACION SUPERIOR       8
+EMPRESARIAL               1     9321     ENSEÑANZA FORMACION PROF. NO SUPERIOR     135
+EMPRESARIAL               1     9322      ENSEÑANZA FORM. PROFESIONAL SUPERIOR      28
+LOCAL AFECTO              1     9322      ENSEÑANZA FORM. PROFESIONAL SUPERIOR       1
+EMPRESARIAL               1     9331               ENSEÑ. CONDUCCION VEHICULOS      66
+EMPRESARIAL               1     9332  PROMOC. CURSOS Y ESTUDIOS EN EL EXTRANJ.       2
+EMPRESARIAL               1     9339                    OTROS ACTIV. ENSEÑANZA     279
+LOCAL AFECTO              1     9339                    OTROS ACTIV. ENSEÑANZA       3
+EMPRESARIAL               1      934  ENSEÑANZA FUERA ESTABLECIMIENTO PERMANEN      40
+LOCAL AFECTO              1      934  ENSEÑANZA FUERA ESTABLECIMIENTO PERMANEN       5
+EMPRESARIAL               1     9352                RESIDENCIAS DE ESTUDIANTES       1
+EMPRESARIAL               1      936        INVESTIGACION CIENTIFICA Y TECNICA      28
+EMPRESARIAL               1     9411                      HOSPITALES GENERALES       1
+EMPRESARIAL               1     9412                 HOSPITALES ESPECIALIZADOS       5
+EMPRESARIAL               1     9421                      CONSULTORIOS MEDICOS      44
+EMPRESARIAL               1     9422                        BALNEARIOS Y BAÑOS       3
+EMPRESARIAL               1     9429                    OTROS SERV. SANITARIOS     100
+LOCAL AFECTO              1     9429                    OTROS SERV. SANITARIOS       3
+EMPRESARIAL               1      943  CONSULTAS CLINICAS ESTOMAT. Y ODONTOLOG.      87
+EMPRESARIAL               1      944                         SERV. NATUROPARIA       9
+EMPRESARIAL               1      945         CONSULTAS Y CLINICAS VETERINARIAS      18
+EMPRESARIAL               1      951   ASISTENCIA Y SERV. SOCIALES DISMINUIDOS     116
+LOCAL AFECTO              1      951   ASISTENCIA Y SERV. SOCIALES DISMINUIDOS       4
+EMPRESARIAL               1      952   ASIST. Y SERV. DISMINUIDOS NO RESIDENC.      74
+LOCAL AFECTO              1      952   ASIST. Y SERV. DISMINUIDOS NO RESIDENC.       7
+EMPRESARIAL               1     9611     PRODUCCION PELICULAS CINEMATOGRAFICAS      44
+EMPRESARIAL               1     9621         DISTRIBUCION Y VENTA DE PELICULAS       4
+EMPRESARIAL               1     9622         DISTRIBUCION Y VTA MAY. PELICULAS       1
+EMPRESARIAL               1     9631  EXHIBICION DE PELICULAS CINEMATOGRAFICAS       4
+EMPRESARIAL               1     9632           EXHIBICION PELICULAS AIRE LIBRE       1
+EMPRESARIAL               1     9641                SERVICIOS DE RADIODIFUSION      10
+LOCAL AFECTO              1     9641                SERVICIOS DE RADIODIFUSION       1
+EMPRESARIAL               1     9642                   SERVICIOS DE TELEVISION       7
+LOCAL AFECTO              1     9642                   SERVICIOS DE TELEVISION       1
+EMPRESARIAL               1     9643      SERV.TRANSMISION Y ENLACE SEÑALES TV       2
+EMPRESARIAL               1     9651           ESPECTACULOS EN SALAS Y LOCALES       9
+EMPRESARIAL               1     9652                ESPECTACULOS AL AIRE LIBRE       4
+EMPRESARIAL               1     9653        ESPECTACULOS FUERA ESTABLECIMIENTO       7
+EMPRESARIAL               1     9654                  EMPRESAS DE ESPECTACULOS      35
+LOCAL AFECTO              1     9654                  EMPRESAS DE ESPECTACULOS       3
+EMPRESARIAL               1     9661                      BIBLIOTECAS Y MUSEOS       2
+EMPRESARIAL               1     9662                                ZOOLOGICOS       1
+EMPRESARIAL               1     9669           OTROS SERVICIOS CULTURALES NCOP      39
+EMPRESARIAL               1     9671                  INSTALACIONES DEPORTIVAS      25
+EMPRESARIAL               1     9672     ESCUELAS Y SERV. PERFECC. DEL DEPORTE      91
+EMPRESARIAL               1     9673  ALQUILER ARTICULOS DEPORTE EN INST. DEP.       2
+EMPRESARIAL               1     9681  INSTALAC. CELEB. ESPECTACULOS DEPORTIVOS       1
+EMPRESARIAL               1     9682      ORGANIZACION ESPECTACULOS DEPORTIVOS      17
+LOCAL AFECTO              1     9682      ORGANIZACION ESPECTACULOS DEPORTIVOS       1
+EMPRESARIAL               1     9683  ORGANIZ.ESPECT.DEPORT. FEDERAC. Y CLUBES       9
+EMPRESARIAL               1     9691               SALAS DE BAILE Y DISCOTECAS      26
+EMPRESARIAL               1     9692                          CASINOS DE JUEGO       1
+EMPRESARIAL               1     9693                           JUEGOS DE BINGO       3
+EMPRESARIAL               1     9694            MAQUINAS RECREATIVAS Y DE AZAR      93
+LOCAL AFECTO              1     9694            MAQUINAS RECREATIVAS Y DE AZAR       1
+EMPRESARIAL               1     9695                             JUEGOS BILLAR      10
+EMPRESARIAL               1     9696            SALONES RECREATIVOS Y DE JUEGO      13
+LOCAL AFECTO              1     9696            SALONES RECREATIVOS Y DE JUEGO       2
+EMPRESARIAL               1     9697                OTRAS MAQUINAS AUTOMATICAS      28
+LOCAL AFECTO              1     9697                OTRAS MAQUINAS AUTOMATICAS       1
+EMPRESARIAL               1     9711                                     TINTE      49
+LOCAL AFECTO              1     9711                                     TINTE       2
+EMPRESARIAL               1     9712             LIMPIEZA Y TEÑIDO DEL CALZADO       1
+EMPRESARIAL               1     9713             ZURCIDO Y REPARACION DE ROPAS      69
+LOCAL AFECTO              1     9713             ZURCIDO Y REPARACION DE ROPAS       1
+EMPRESARIAL               1     9721     SERV. PELUQUERIA SEÑORAS Y CABALLEROS     532
+LOCAL AFECTO              1     9721     SERV. PELUQUERIA SEÑORAS Y CABALLEROS       1
+EMPRESARIAL               1     9722           SALONES E INSTITUTOS DE BELLEZA     333
+EMPRESARIAL               1     9731                    SERVICIOS FOTOGRAFICOS     100
+LOCAL AFECTO              1     9731                    SERVICIOS FOTOGRAFICOS       3
+EMPRESARIAL               1     9732  MAQUINAS AUTOMAT. FOTOGRAFIAS Y FOTOCOP.       1
+EMPRESARIAL               1     9733     SERV. COPIAS DOCUMENTOS MAQ.FOTOCOPIA      54
+EMPRESARIAL               1      974      AGENCIAS PRESTACION SERV. DOMESTICOS       3
+LOCAL AFECTO              1      974      AGENCIAS PRESTACION SERV. DOMESTICOS       1
+EMPRESARIAL               1      975                  SERVICIOS DE ENMARCACION      15
+EMPRESARIAL               1     9791                     SERV. POMPAS FUNEBRES       2
+LOCAL AFECTO              1     9791                     SERV. POMPAS FUNEBRES       3
+EMPRESARIAL               1     9793  AGENCIAS MATRIMONIALES Y OTROS SERVICIOS       1
+EMPRESARIAL               1     9794     ADIESTRAMIENTO Y CUIDADOS DE ANIMALES      22
+LOCAL AFECTO              1     9794     ADIESTRAMIENTO Y CUIDADOS DE ANIMALES       1
+EMPRESARIAL               1     9799           OTROS SERVICIOS PERSONALES NCOP      32
+EMPRESARIAL               1     9812                        JARDINES DE RECREO      19
+EMPRESARIAL               1     9813  PARQUES DE ATRACCIONES (TAMB. ACUATICOS)       1
+EMPRESARIAL               1     9824                             OTRAS ATRACC.      24
+EMPRESARIAL               1      983        AGENCIAS DE COLOCACION DE ARTISTAS       5
+EMPRESARIAL               1     9891          EXPEDICION BILLETES ESPECTACULOS       1
+LOCAL AFECTO              1     9891          EXPEDICION BILLETES ESPECTACULOS       1
+EMPRESARIAL               1     9892                  SERV. ORGANIZ. CONGRESOS      39
+LOCAL AFECTO              1     9892                  SERV. ORGANIZ. CONGRESOS       1
+EMPRESARIAL               1     9893               PARQUES O RECINTOS FERIALES       3
+EMPRESARIAL               1      999                  OTROS SERVICIOS N.C.O.P.     133
+LOCAL AFECTO              1      999                  OTROS SERVICIOS N.C.O.P.       8
+PROFESIONAL               2      011        DOCTORES Y LICENCIADOS EN BIOLOGIA       6
+PROFESIONAL               2      012          INGENIEROS AGRONOMOS Y DE MONTES       5
+LOCAL AFECTO              2      013                              VETERINARIOS       1
+PROFESIONAL               2      013                              VETERINARIOS      37
+PROFESIONAL               2      021                         TECNICOS BIOLOGIA       2
+PROFESIONAL               2      022    INGENIEROS TEC. AGRICOLAS Y FORESTALES       9
+PROFESIONAL               2      023            INGENIEROS TECNICOS TOPOGRAFOS      13
+PROFESIONAL               2      099   OTROS PROFESIONALES AGRICULTURA... NCOP       3
+PROFESIONAL               2      111   DRES.Y LICENCIADOS FISICAS Y GEOLOGICAS       5
+PROFESIONAL               2      112                       INGENIEROS DE MINAS       8
+PROFESIONAL               2      121           DRES. Y LICENCIADOS EN QUIMICAS       4
+PROFESIONAL               2      131   INGENIEROS TEC. MINAS FACULT. Y PERITOS       2
+PROFESIONAL               2      199                OTROS PROF. RELAC. ENERGIA       1
+PROFESIONAL               2      212                        INGENIEROS NAVALES       2
+PROFESIONAL               2      213               INGENIEROS TELECOMUNICACION       3
+LOCAL AFECTO              2      222        INGENIEROS TEC. TELECOMUNICACIONES       1
+PROFESIONAL               2      222        INGENIEROS TEC. TELECOMUNICACIONES       9
+PROFESIONAL               2      224                       DIBUJANTES TECNICOS       4
+PROFESIONAL               2      225              TECNICOS EN TELECOMUNICACION       1
+PROFESIONAL               2      226                        TECNICOS EN SONIDO       5
+PROFESIONAL               2      228                  INGENIEROS TECN. NAVALES       1
+PROFESIONAL               2      299           OTROS PROF.RELACION AERONAUTICA       1
+PROFESIONAL               2      311        INGENIEROS INDUSTRIALES Y TEXTILES      56
+PROFESIONAL               2      321   INGENIEROS TEC. INDUSTRIALES Y TEXTILES      87
+PROFESIONAL               2      322                TECNICOS EN ARTES GRAFICAS      13
+PROFESIONAL               2      399   OTROS PROFESIONALES INDUSTRIAS MANUFAC.      37
+LOCAL AFECTO              2      411                               ARQUITECTOS       3
+PROFESIONAL               2      411                               ARQUITECTOS     209
+PROFESIONAL               2      412                        INGENIEROS CAMINOS       5
+PROFESIONAL               2      421       ARQUITECTOS TECNICOS Y APAREJADORES     203
+PROFESIONAL               2      422            INGENIEROS TEC. OBRAS PUBLICAS       6
+PROFESIONAL               2      431                               DELINEANTES      23
+PROFESIONAL               2      432     DECORADORES-DISEÑADORES DE INTERIORES      29
+PROFESIONAL               2      441      TECNICOS SUP. DESARROLLO URBANISTICO       2
+PROFESIONAL               2      499   OTROS PROFES. RELACIONADOS CONSTRUCCION      19
+LOCAL AFECTO              2      511                       AGENTES COMERCIALES       9
+PROFESIONAL               2      511                       AGENTES COMERCIALES     520
+PROFESIONAL               2      599  OTROS PROF. RELAC. COMERCIO Y HOSTELERIA     193
+PROFESIONAL               2      612       CONDUCTORES DE VEHICULOS TERRESTRES       4
+PROFESIONAL               2      699     OTROS PROFESIONALES RELAC. TRANSPORTE       4
+PROFESIONAL               2      711                      ACTUARIOS DE SEGUROS       6
+LOCAL AFECTO              2      712           AGENTES Y CORREDORES DE SEGUROS       1
+PROFESIONAL               2      712           AGENTES Y CORREDORES DE SEGUROS     243
+PROFESIONAL               2      721  AGENTES COLEGIADOS PROPIEDAD IND.E INMOB      26
+PROFESIONAL               2      722                  GESTORES ADMINISTRATIVOS      20
+PROFESIONAL               2      723                 ADMINISTRADORES DE FINCAS      47
+PROFESIONAL               2      724    INTERMEDIARIOS PROMOCION EDIFICACIONES      21
+PROFESIONAL               2      725             HABILITADOS DE CLASES PASIVAS       2
+LOCAL AFECTO              2      726                        GRADUADOS SOCIALES       1
+PROFESIONAL               2      726                        GRADUADOS SOCIALES      16
+PROFESIONAL               2      727        AGENTES O INTERMEDIARIOS PRESTAMOS       7
+PROFESIONAL               2      728                        AGENTES DE ADUANAS       5
+LOCAL AFECTO              2      731                                  ABOGADOS       1
+PROFESIONAL               2      731                                  ABOGADOS     849
+PROFESIONAL               2      732                              PROCURADORES      90
+LOCAL AFECTO              2      733                                  NOTARIOS       1
+PROFESIONAL               2      733                                  NOTARIOS      16
+PROFESIONAL               2      734                             REGISTRADORES       4
+LOCAL AFECTO              2      741                               ECONOMISTAS       2
+PROFESIONAL               2      741                               ECONOMISTAS      87
+PROFESIONAL               2      742      INTENDENTES Y PROFESORES MERCANTILES       5
+PROFESIONAL               2      743                       PERITOS MERCANTILES       4
+PROFESIONAL               2      744      DIPLOMADOS EN CIENCIAS EMPRESARIALES      36
+PROFESIONAL               2      747   AUDITORES DE CUENTAS Y CENSORES JURADOS      10
+LOCAL AFECTO              2      751                  PROFESIONALES PUBLICIDAD       1
+PROFESIONAL               2      751                  PROFESIONALES PUBLICIDAD      43
+PROFESIONAL               2      761   DOCTORES Y LICENCIADOS EXACTAS Y ESTAD.       1
+PROFESIONAL               2      762        DOCTORES Y LICENCIADOS INFORMATICA       2
+PROFESIONAL               2      763     PROGRAMADORES Y ANALISTAS INFORMATICA      43
+PROFESIONAL               2      764                 DIPLOMADOS EN INFORMATICA       5
+PROFESIONAL               2      765                                GRABADORES      16
+PROFESIONAL               2      771                        AGENTES COBRADORES      10
+PROFESIONAL               2      772                            ESTENOTIPISTAS      15
+PROFESIONAL               2      773                       DETECTIVES PRIVADOS       6
+LOCAL AFECTO              2      774                 TRADUCTORES E INTERPRETES       2
+PROFESIONAL               2      774                 TRADUCTORES E INTERPRETES      57
+PROFESIONAL               2      775       DOCTORES Y LICENCIADOS EN FILOSOFIA       4
+PROFESIONAL               2      776   DRES.LICENC.POLITICAS SOCIALES Y SIMIL.     119
+PROFESIONAL               2      777  ESPECIALISTAS ORIENTACION Y ANALISIS PER      12
+PROFESIONAL               2      778  DIPL. EN BIBLIOTECOMANIA Y DOCUMENTACION       1
+LOCAL AFECTO              2      799  OTROS PROF. ACTIV. FINANC. JURID. SEGUR.       2
+PROFESIONAL               2      799  OTROS PROF. ACTIV. FINANC. JURID. SEGUR.     114
+PROFESIONAL               2      811                    PROFESIONALES LIMPIEZA      35
+PROFESIONAL               2      821       PERSONAL DOCENTE ENSEÑANZA SUPERIOR      10
+PROFESIONAL               2      822          PERSONAL DOCENTE ENSEÑANZA MEDIA       9
+PROFESIONAL               2      823           DOCENTES ENSEÑANZA GRAL. BASICA       5
+LOCAL AFECTO              2      824          PROFESORES FORMACION PROFESIONAL       3
+PROFESIONAL               2      824          PROFESORES FORMACION PROFESIONAL      81
+PROFESIONAL               2      825           PROFESORES CONDUCCION VEHICULOS       3
+PROFESIONAL               2      826      PERSONAL DOCENTE ENSEÑANZAS DIVERSAS     162
+PROFESIONAL               2      831                  MEDICOS MEDICINA GENERAL     100
+PROFESIONAL               2      832                     MEDICOS ESPECIALISTAS     180
+PROFESIONAL               2      833                             ESTOMATOLOGOS      42
+PROFESIONAL               2      834                               ODONTOLOGOS     137
+PROFESIONAL               2      835                             FARMACEUTICOS      10
+LOCAL AFECTO              2      836  AYUD. TECN. SANITARIOS Y FISIOTERAPEUTAS       1
+PROFESIONAL               2      836  AYUD. TECN. SANITARIOS Y FISIOTERAPEUTAS     140
+PROFESIONAL               2      837         PROTESICOS E HIGIENISTAS DENTALES      25
+PROFESIONAL               2      838         OPTICOS-OPTOMETRISTAS Y PODOLOGOS      26
+LOCAL AFECTO              2      839                                MASAJISTAS       1
+PROFESIONAL               2      839                                MASAJISTAS      40
+PROFESIONAL               2      841                               ACUPUNTORES      52
+PROFESIONAL               2      853              AGENTES COLOCADORES ARTISTAS       2
+PROFESIONAL               2      854           EXPERTOS ORGANIZACION CONGRESOS       7
+LOCAL AFECTO              2      861                                  PINTORES       1
+PROFESIONAL               2      861                                  PINTORES     147
+PROFESIONAL               2      862               RESTAURADORES OBRAS DE ARTE       3
+PROFESIONAL               2      871           EXPENDEDORES OFICIALES LOTERIAS      39
+PROFESIONAL               2      872           EXPENDEDORES OFICIALES APUESTAS       3
+PROFESIONAL               2      873        EXPENDEDORES NO OFICIALES APUESTAS      29
+PROFESIONAL               2      881                    ASTROLOGOS Y SIMILARES       6
+PROFESIONAL               2      882                          GUIAS DE TURISMO       7
+PROFESIONAL               2      883              GUIAS INTERPRETES DE TURISMO       1
+LOCAL AFECTO              2      884                 PERITOS TASADORES:SEGUROS       1
+PROFESIONAL               2      884                 PERITOS TASADORES:SEGUROS      29
+PROFESIONAL               2      885      LIQUIDADORES Y COMISARIOS DE AVERIAS       2
+LOCAL AFECTO              2      887              MAQUILLADORES Y ESTETICISTAS       1
+PROFESIONAL               2      887              MAQUILLADORES Y ESTETICISTAS      47
+PROFESIONAL               2      888                                GRAFOLOGOS      12
+LOCAL AFECTO              2      899    OTROS PROF. RELACIONADOS CON SERVICIOS       2
+PROFESIONAL               2      899    OTROS PROF. RELACIONADOS CON SERVICIOS     136
+ARTISTICAS                3      011               DIRECTORES DE CINE Y TEATRO       9
+ARTISTICAS                3      012                    AYUDANTES DE DIRECCION       1
+ARTISTICAS                3      013                  ACTORES DE CINE Y TEATRO      10
+LOCAL AFECTO              3      013                  ACTORES DE CINE Y TEATRO       2
+ARTISTICAS                3      015                    OPERADORES CAMARA:CINE       1
+ARTISTICAS                3      016                                HUMORISTAS       3
+LOCAL AFECTO              3      016                                HUMORISTAS       2
+ARTISTICAS                3      018                        ARTISTAS CIRCENSES       1
+ARTISTICAS                3      019                          ACTIVIDADES CINE      26
+LOCAL AFECTO              3      019                          ACTIVIDADES CINE       1
+ARTISTICAS                3      021                  DIRECTORES COREOGRAFICOS       1
+ARTISTICAS                3      022                                BAILARINES       1
+ARTISTICAS                3      029              OTRAS ACTIV. DEL BAILE  NCOP       2
+ARTISTICAS                3      031           MAESTROS Y DIRECTORES DE MUSICA       3
+ARTISTICAS                3      032     INTERPRETES DE INSTRUMENTOS MUSICALES      18
+ARTISTICAS                3      033                                 CANTANTES      11
+ARTISTICAS                3      039          OTRAS ACTIV. RELAC. MUSICA  NCOP      41
+ARTISTICAS                3      041        JUGADORES Y ENTRENADORES DE FUTBOL       1
+ARTISTICAS                3      042       JUGADORES Y ENTREN. DE TENIS Y GOLF       9
+ARTISTICAS                3      043   PILOTOS Y ENTREN. DE MOTOCICL. Y AUTOM.       5
+ARTISTICAS                3      045         JUGADORES Y ENTREN. DE BALONCESTO       1
+ARTISTICAS                3      047            OTROS JUGADORES Y ENTRENADORES      12
+ARTISTICAS                3      048       ARBITROS DE ESPECTACULOS DEPORTIVOS       2
+ARTISTICAS                3      049    OTRAS ACTIV. RELACIONADAS DEPORTE NCOP      16

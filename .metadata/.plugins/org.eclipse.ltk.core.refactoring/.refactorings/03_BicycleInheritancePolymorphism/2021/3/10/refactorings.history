@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;041_BicycleInterface/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;03_BicycleInheritancePolymorphism&apos;&#x0D;&#x0A;- Destination element: &apos;041_BicycleInterface/src/(default package)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     MountainBike.java&#x0D;&#x0A;     RoadBike.java" description="Copy compilation units" destination="=041_BicycleInterface/src&lt;" element1="/src&lt;{MountainBike.java" element2="/src&lt;{RoadBike.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1615390414052" units="2" version="1.0"/>
+</session>

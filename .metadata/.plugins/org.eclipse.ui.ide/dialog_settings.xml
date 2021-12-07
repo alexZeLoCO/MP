@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\User\Downloads\Examen_Junio_2020_E+F.zip"/>
+			<item value="C:\Users\User\Downloads\EvaluacionE+F_Mayo2020_Prototipo.zip"/>
+			<item value="C:\Users\User\Downloads\DynamicVectorsIntegers1.0.zip"/>
+			<item value="C:\Users\User\Downloads\JEROQUEST2.0_Serializable.zip"/>
+			<item value="C:\Users\User\Downloads\EjerciciosFicheros4_1y4_2_2021.zip"/>
+			<item value="C:\Users\User\Downloads\DynamicVectorIntegersExceptions.zip"/>
+			<item value="C:\Users\User\Downloads\Jeroquest2.0 (1).zip"/>
+			<item value="C:\Users\User\Downloads\Tema3_Excepciones_Prototipos.zip"/>
+			<item value="F:\Jeroquest2.0.zip"/>
+			<item value="C:\Users\User\Downloads\JEROQUEST2.0.zip"/>
+			<item value="C:\Users\User\Downloads\AnalisisLexico.zip"/>
+			<item value="C:\Users\User\Downloads\Universidad_Ej1.zip"/>
+			<item value="C:\Users\User\Downloads\JEROQUEST1.5_INCOMPLETE.zip"/>
+			<item value="C:\Users\User\Downloads\EjerciciosPolimorfismoPrimeraParte.zip.zip"/>
+			<item value="C:\Users\User\Downloads\Jeroquest_1_Tests.zip"/>
+			<item value="C:\Users\User\Downloads\CircleWithCentre.zip"/>
+			<item value="C:\Users\User\Downloads\PF-53777253X.zip"/>
+			<item value="C:\Users\User\Downloads\Prototipos_Herencia.zip"/>
+			<item value="C:\Users\User\Downloads\StaticVectorIntegers.zip"/>
+			<item value="C:\Users\User\Downloads\Circles_Test.zip"/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="ResourceNavigator">
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1612364664164"/>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>
